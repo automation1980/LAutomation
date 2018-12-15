@@ -1,2 +1,2 @@
-# LAutomation
+# LGAutomation
 Hobby project
